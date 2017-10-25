@@ -1,3 +1,8 @@
+/*
+Convert the given number into a roman numeral.
+    All roman numerals answers should be provided in upper-case.
+*/
+
 function convertToRoman1(num) {
 //                         0     1   2     3   4      5     6    7     8     9   10    11   12
     let decimalValue = [ 1000, 900, 500, 400, 100,   90,   50,  40,   10,   9,   5,     4,  1 ];
